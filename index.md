@@ -1,8 +1,7 @@
-# SCRUM
 
 ## Guías
 
-* Definición de Scrum 
+* [Definición de Scrum](tutoriales/definicion_Scrum.md) 
 * Teoría de Scrum
   * [Transparencia]
   * [Inspección]
