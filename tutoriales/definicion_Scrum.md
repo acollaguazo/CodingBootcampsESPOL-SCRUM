@@ -4,20 +4,19 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 [Regresar](CodingBootcampsESPOL-SCRUM/)
 
-Definición de Scrum
-===================
+# Definición de Scrum
 
 Scrum es un marco de trabajo liviano que ayuda a las personas, equipos y organizaciones a generar valor
 a través de soluciones adaptativas para problemas complejos.
 El póster de Scrum Framework proporciona una vista gráfica de cómo se implementa Scrum a nivel de equipo dentro de una organización. El Framework se basa en [The Scrum Guide](https://scrumguides.org/), que los co-creadores de Scrum, Ken Schwaber y Jeff Sutherland, escribieron para explicar Scrum de manera clara y sucinta.
 
 <p align="center">
-<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png"  alt="Banner Scrum Framework" width="70%"/>
+<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png"  alt="Banner Scrum Framework" width="60%"/>
 </p>
 
 En pocas palabras, Scrum requiere un Scrum Master para fomentar un entorno donde:
 <p align="center">
-<img src="./imagenes/entornoScrum.png" width="70%" alt="Banner entorno Scrum"/>
+<img src="./imagenes/entornoScrum.png" width="60%" alt="Banner entorno Scrum"/>
 </p>
 
 Scrum es simple. Pruébelo como está y determine si su filosofía, teoría y estructura ayudan a lograr
