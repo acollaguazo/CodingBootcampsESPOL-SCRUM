@@ -2,11 +2,12 @@
 
 ## Guías
 
-* [Definición de Scrum](tutoriales/definicion_Scrum.md) 
-* Teoría de Scrum
-  * [Transparencia]
-  * [Inspección]
-  * [Adaptación]
+* [Definición de Scrum](tutoriales/definicion-Scrum.md) 
+* [Teoría de Scrum](tutoriales/teoria-Scrum.md) 
+  * [Pilares empíricos de Scrum](tutoriales/pilares-Scrum.md)
+    * Transparencia
+    * Inspección
+    * Adaptación
 * [Valores de Scrum]
 * [Scrum Team]
   * [Developers]

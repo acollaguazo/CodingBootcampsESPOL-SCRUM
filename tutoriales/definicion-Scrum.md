@@ -14,9 +14,10 @@ El póster de Scrum Framework proporciona una vista gráfica de cómo se impleme
 <img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png"  alt="Banner Scrum Framework" width="60%"/>
 </p>
 
-En pocas palabras, Scrum requiere un Scrum Master para fomentar un entorno donde:
+En pocas palabras, Scrum requiere un Scrum Master para fomentar  el siguiente entorno:
+
 <p align="center">
-<img src="./imagenes/entornoScrum.png" width="60%" alt="Banner entorno Scrum"/>
+<img src="./imagenes/entorno.gif" width="90%" alt="Banner entorno Scrum"/>
 </p>
 
 Scrum es simple. Pruébelo como está y determine si su filosofía, teoría y estructura ayudan a lograr
