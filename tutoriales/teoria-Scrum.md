@@ -2,7 +2,7 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 ---
 
-[Regresar](CodingBootcampsESPOL-SCRUM/)
+[Regresar](/CodingBootcampsESPOL-SCRUM/)
 
 # Teoría de Scrum
 

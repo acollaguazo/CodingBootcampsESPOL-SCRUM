@@ -2,7 +2,7 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 ---
 
-[Regresar](CodingBootcampsESPOL-SCRUM/)
+[Regresar](/CodingBootcampsESPOL-SCRUM/)
 
 # Pilares empíricos de Scrum
 
@@ -10,9 +10,8 @@ Como ya se habia meniconado los eventos dentro de la metodología Scrum implemne
 inspección y adaptación.
 
 <p align="center">
-<img src="./imagenes/Scrum.gif" width="90%" alt="Banner entorno Scrum"/>
+<img src="./imagenes/SCRUM.gif" width="90%" alt="Banner pilares Scrum"/>
 </p>
-
 Transparencia
 ===========
 

@@ -8,7 +8,7 @@
     * Transparencia
     * Inspección
     * Adaptación
-* [Valores de Scrum]
+* [Valores de Scrum](tutoriales/valores-Scrum.md)
 * [Scrum Team]
   * [Developers]
   * [Product Owner]
