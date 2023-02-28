@@ -16,10 +16,10 @@
 * [Eventos de Scrum](tutoriales/eventos-Scrum.md)
   * [El Sprint](tutoriales/sprint-Scrum.md)
   * [Sprint Planning](tutoriales/Sprint-planning.md)
-  * [Daily Scrum]
-  * [Sprint Review]
-  * [Sprint Retrospective]
-* [Artefactos de Scrum]
-  * [Developers]
-  * [Sprint Backlog]
-  * [Increment]
+  * [Daily Scrum](tutoriales/daily-Scrum.md)
+  * [Sprint Review](tutoriales/Sprint-review.md)
+  * [Sprint Retrospective](tutoriales/Sprint-retrospective.md)
+* [Artefactos de Scrum](tutoriales/artefactos-Scrum.md)
+  * [Product Backlog](tutoriales/product-baclog.md)
+  * [Sprint Backlog](tutoriales/sprint-baclog.md)
+  * [Increment](tutoriales/increment.md)
