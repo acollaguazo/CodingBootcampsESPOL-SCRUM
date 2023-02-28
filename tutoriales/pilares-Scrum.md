@@ -10,8 +10,9 @@ Como ya se habia meniconado los eventos dentro de la metodología Scrum implemne
 inspección y adaptación.
 
 <p align="center">
-<img src="./imagenes/SCRUM.gif" width="90%" alt="Banner pilares Scrum"/>
+<img src="./imagenes/pilaresScrum.gif" width="70%" alt="Banner pilares Scrum"/>
 </p>
+
 Transparencia
 ===========
 
@@ -29,7 +30,7 @@ Los artefactos de Scrum y el progreso hacia los objetivos acordados deben inspec
 La inspección permite la adaptación. La inspección sin adaptación se considera inútil. Los eventos Scrum están diseñados para provocar cambios.
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/753/753422.png" width="50%"/>
+<img src="https://cdn-icons-png.flaticon.com/512/753/753422.png" width="25%"/>
 </p>
 
 Adaptación
@@ -41,7 +42,7 @@ Si algún aspecto de un proceso se desvía fuera de los límites aceptables o si
 La adaptación se vuelve más difícil cuando las personas involucradas no están empoderadas ni se autogestionan. Se espera que un Scrum Team se adapte en el momento en que aprenda algo nuevo a través de la inspección.
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/6159/6159870.png" width="50%"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6159/6159870.png" width="25%"/>
 </p>
 
 Referencias 
