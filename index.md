@@ -23,3 +23,9 @@
   * [Product Backlog](tutoriales/product-baclog.md)
   * [Sprint Backlog](tutoriales/sprint-baclog.md)
   * [Increment](tutoriales/increment.md)
+
+  ## Guías prácticas
+
+  * [Asana](tutoriales/Asana)
+  * [Jira]
+    * [Creación de cuenta](tutoriales/jira/creacion-cuenta.md)
