@@ -28,9 +28,12 @@
 
   * [Asana](tutoriales/Asana)
     * [Creación de cuenta en Asana](tutoriales/asana/creacion-cuenta.md)
+    * [Detalle de las actividades de los Sprints](tutoriales/asana/detalle-sprint.md)
+    * [Product Backlog en Asana](tutoriales/asana/backlog-asana.md)
+    * [Creación de Sprint en Asana](tutoriales/asana/sprint-Asana.md)
   * Jira
     * [Creación de cuenta](tutoriales/jira/creacion-cuenta.md)
     * [Tu primer proyecto](tutoriales/jira/primer-proyecto.md)
-      * [Detalle de las actividades de los Sprint](tutoriales/jira/detalle-sprint.md)
+      * [Detalle de las actividades de los Sprints](tutoriales/jira/detalle-sprint.md)
       * [Actividades de Backlog](tutoriales/jira/backlog.md)
       * [Creación de Sprint en Jira](tutoriales/jira/creacion-Sprint-Jira.md)
