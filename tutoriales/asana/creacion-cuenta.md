@@ -1,4 +1,4 @@
-## Creación de cuenta en Jira
+## Creación de cuenta en Asana
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
 
