@@ -1,5 +1,6 @@
-[Regresar](/CodingBootcampsESPOL-SCRUM/)
 ## Creación de cuenta en Jira
+
+[Regresar](/CodingBootcampsESPOL-SCRUM/)
 
 ## Jira
  
@@ -14,11 +15,41 @@
 + Accede al sitio oficial de [Jira](https://www.atlassian.com/es/software/jira/free), en donde seleccionarás la opcion de Jira Service Managment y luego das clic en el botón de siguiente.
 
 <p align="center">
-<img src="../imagenes/jira1.png" width="80%" alt="Banner entorno Scrum"/>
+<img src="../imagenes/jira1.png" width="80%" alt="Banner Jira"/>
 </p>
 
 <p align="center">
-<img src="../imagenes/jira1.png" alt="Banner entorno Scrum"/>
+<img src="../imagenes/jira1.png" alt="Banner Jira"/>
+</p>
+
++ Te redirigirás a un nuevo enlace, en la que debes colocar tu correo para la creación de la cuenta, y de ahí dar clic en el botón aceptar.
+
+<p align="center">
+<img src="../imagenes/jira2.png" width="80%" alt="Banner Jira"/>
+</p>
+
++ Tendrás que continuar con el proceso de verificación de la cuenta en el correo personal. 
+
+
+<p align="center">
+<img src="../imagenes/jira3.png" width="80%" alt="Banner Jira"/>
+</p>
+ 
++ En el mensaje de confirmación que fue enviado a tu correo, debes dar clic a "verifica tu correo electronico".
+
+<p align="center">
+<img src="../imagenes/jira4.png" width="80%" alt="Banner Jira"/>
+</p>
+
++ Una vez realizado el paso anterior, te redirigirá a una nueva ventana en la que debes colocar la contraseña correspondiente a tu correo electrónico. Luego das clic en iniciar sesión.
+<p align="center">
+<img src="../imagenes/jira5.png" width="80%" alt="Banner Jira"/>
+</p>
+
++ Finalmente, tu cuenta fue creada y ahora podrás empezar a crear tu proyecto en Jira.
+
+<p align="center">
+<img src="../imagenes/jira6.jpg" width="80%" alt="Banner Jira"/>
 </p>
 
  Referencias 

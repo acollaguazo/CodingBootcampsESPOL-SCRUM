@@ -27,5 +27,9 @@
   ## Guías prácticas
 
   * [Asana](tutoriales/Asana)
-  * [Jira]
+  * Jira
     * [Creación de cuenta](tutoriales/jira/creacion-cuenta.md)
+    * [Tu primer proyecto](tutoriales/jira/primer-proyecto.md)
+      * [Detalle de las actividades de los Sprint](tutoriales/jira/detalle-sprint.md)
+      * [Actividades de Backlog](tutoriales/jira/backlog.md)
+      * [Creación de Sprint en Jira](tutoriales/jira/creacion-Sprint-Jira.md)
