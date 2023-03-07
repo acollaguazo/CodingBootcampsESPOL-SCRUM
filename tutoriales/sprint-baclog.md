@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Sprint backlog
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Sprint backlog
 
 El Sprint Backlog se compone del Objetivo del Sprint (por qué), el conjunto de elementos del Product Backlog seleccionados para el Sprint (qué), así como un plan de acción para entregar el Increment (cómo).
 El Sprint Backlog es un plan realizado por y para los Developers. Es una imagen muy visible y en tiempo real del trabajo que los Developers planean realizar durante el Sprint para lograr el Objetivo del Sprint. En consecuencia, el Sprint Backlog se actualiza a lo largo del Sprint a medida que se aprende más. Debe tener suficientes detalles para que puedan inspeccionar su progreso en la Daily Scrum.
@@ -29,3 +25,5 @@ Referencias
 ===========
 
 * * *
+
+La guía de Scrum. Retrieved 28 February 2023, from [https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)

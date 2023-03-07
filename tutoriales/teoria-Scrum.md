@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Teoría de Scrum
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Teoría de Scrum
 
 Scrum se basa en el empirismo y el pensamiento Lean.
 

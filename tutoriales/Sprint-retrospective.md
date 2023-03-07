@@ -1,4 +1,4 @@
-# Sprint retrospective
+## Sprint retrospective
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
 
@@ -49,4 +49,4 @@ Referencias
 
 * * *
 
-* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves
+* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from [https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves](https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves)

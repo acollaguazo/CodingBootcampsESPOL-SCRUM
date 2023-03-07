@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Increment
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Increment
 
 Un Increment es un peldaño concreto hacia el Objetivo del Producto. Cada Increment se suma a todos los Increments anteriores y se verifica minuciosamente, lo que garantiza que todos los Increments funcionen juntos. Para proporcionar valor, el Increment debe ser utilizable.
 Se pueden crear múltiples Increments dentro de un Sprint. La suma de los Increments se presenta en la Sprint Review apoyando así el empirismo. Sin embargo, se puede entregar un Increment a los interesados antes del final del Sprint. La Sprint Review nunca debe considerarse una puerta para liberar valor.
@@ -30,3 +26,5 @@ Referencias
 ===========
 
 * * *
+
+La guía de Scrum. Retrieved 28 February 2023, from [https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)

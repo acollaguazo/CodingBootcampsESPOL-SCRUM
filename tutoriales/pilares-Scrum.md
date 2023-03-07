@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Pilares empíricos de Scrum
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Pilares empíricos de Scrum
 
 Como ya se habia meniconado los eventos dentro de la metodología Scrum implemnetan los pilares empíricos de transparencia,
 inspección y adaptación.

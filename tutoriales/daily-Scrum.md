@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Daily Scrum
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Daily Scrum
 
 La Daily Scrum es un evento de 15 minutos para los Developers del Scrum Team. Para reducir la complejidad, se lleva a cabo a la misma hora y en el mismo lugar todos los días hábiles del Sprint. Si el Product Owner o Scrum Master están trabajando activamente en elementos del Sprint Backlog,
 participan como Developers.
@@ -62,4 +58,4 @@ Referencias
 
 * * *
 
-* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves 
+* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from [https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves](https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves) 

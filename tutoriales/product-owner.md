@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Product owner
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Product owner
 
 El Product Owner es responsable de maximizar el valor del producto resultante del trabajo del Scrum Team. La forma en que esto se hace puede variar ampliamente entre organizaciones, Scrum Teams e individuos.
 El Product Owner también es responsable de la gestión efectiva del Product Backlog, lo que incluye:
@@ -38,3 +34,5 @@ Referencias
 ===========
 
 * * *
+
+La guía de Scrum. Retrieved 28 February 2023, from [https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)

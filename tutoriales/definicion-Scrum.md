@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Definición de Scrum
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Definición de Scrum
 
 Scrum es un marco de trabajo liviano que ayuda a las personas, equipos y organizaciones a generar valor
 a través de soluciones adaptativas para problemas complejos.
@@ -34,5 +30,5 @@ Referencias
 
 * * *
 
-* The Scrum Framework Poster. Retrieved 26 February 2023, from https://www.scrum.org/resources/scrum-framework-poster 
-* Scrum Guides. Retrieved 26 February 2023, from https://scrumguides.org/
+* The Scrum Framework Poster. Retrieved 26 February 2023, from [https://www.scrum.org/resources/scrum-framework-poster](https://www.scrum.org/resources/scrum-framework-poster) 
+* Scrum Guides. Retrieved 26 February 2023, from [https://scrumguides.org/](https://scrumguides.org/)

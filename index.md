@@ -27,6 +27,7 @@
   ## Guías prácticas
 
   * [Asana](tutoriales/Asana)
+    * [Creación de cuenta en Asana](tutoriales/asana/creacion-cuenta.md)
   * Jira
     * [Creación de cuenta](tutoriales/jira/creacion-cuenta.md)
     * [Tu primer proyecto](tutoriales/jira/primer-proyecto.md)

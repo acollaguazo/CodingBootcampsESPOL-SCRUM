@@ -1,10 +1,7 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Sprint planning
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
 
-## Sprint planning
 
 El sprint planning es un evento de Scrum que inicia el Sprint al establecer el trabajo que se realizará para el Sprint. El Scrum Team crea este plan resultante mediante trabajo colaborativo.
 El Product Owner se asegura de que los asistentes estén preparados para discutir los elementos más importantes del Product Backlog y cómo se relacionan con el Objetivo del Producto. El Scrum Team también puede invitar a otras personas a asistir a la Sprint Planning para brindar asesoramiento.
@@ -63,4 +60,4 @@ Referencias
 
 * * *
 
-* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves 
+* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from [https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves](https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves) 

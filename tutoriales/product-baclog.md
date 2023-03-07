@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Product backlog
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Product backlog
 
 El Product Backlog es una lista emergente y ordenada de lo que se necesita para mejorar el producto. Es la única fuente del trabajo realizado por el Scrum Team.
 Los elementos del Product Backlog que el Scrum Team puede dar por Terminados dentro de un Sprint se consideran preparados para ser seleccionados en un evento de Sprint Planning. Suelen adquirir este grado de transparencia tras las actividades de refinamiento. El refinamiento del Product Backlog es el acto de dividir y definir aún más los elementos del Product Backlog en elementos más pequeños y precisos. Esta es una actividad continua para agregar detalles, como una descripción, orden y tamaño. Los atributos suelen variar según el ámbito del trabajo. 
@@ -33,3 +29,5 @@ Referencias
 ===========
 
 * * *
+
+La guía de Scrum. Retrieved 28 February 2023, from [https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)

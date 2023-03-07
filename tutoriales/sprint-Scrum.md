@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Sprint
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Sprint
 
 El Sprint es evento en Scrum. Además, son el corazón de Scrum, donde las ideas se convierten en valor. Son eventos de duración fija de un mes o menos para crear consistencia. Un nuevo Sprint comienza inmediatamente después de la conclusión del Sprint anterior. Todo el trabajo necesario para lograr el Objetivo del Producto, incluido la Sprint Planning, Daily Scrums,
 Sprint Review y Sprint Retrospective, ocurre dentro de los Sprints. 
@@ -55,4 +51,4 @@ Referencias
 
 * * *
 
-* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves 
+* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from [https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves](https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves) 

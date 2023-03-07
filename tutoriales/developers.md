@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Developers
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Developers
 
 Los developers Las personas del Scrum Team que se comprometen a crear cualquier aspecto de un Increment utilizable en cada Sprint.
 
@@ -26,3 +22,5 @@ Referencias
 ===========
 
 * * *
+
+La guía de Scrum. Retrieved 28 February 2023, from [https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)

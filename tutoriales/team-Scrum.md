@@ -1,10 +1,7 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Scrum team
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
 
-# Scrum team
 
 La unidad fundamental de Scrum es un pequeño equipo de personas, un Scrum Team. El Scrum Team consta de un Scrum Master, un Product Owner y Developers. Dentro de un Scrum Team, no hay subequipos ni jerarquías. Es una unidad cohesionada de profesionales enfocados en un objetivo a la vez, el Objetivo del Producto.
 
@@ -63,3 +60,4 @@ Referencias
 
 * * *
 
+La guía de Scrum. Retrieved 28 February 2023, from [https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)

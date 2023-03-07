@@ -1,8 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Artefactos de Scrum
 
-# Artefactos de Scrum
+[Regresar](/CodingBootcampsESPOL-SCRUM/)
 
 Los artefactos de Scrum representan trabajo o valor. Están diseñados para maximizar la transparencia de la información clave. Por lo tanto, todas las personas que los inspeccionan tienen la misma base de adaptación.
 
@@ -29,3 +27,5 @@ Referencias
 ===========
 
 * * *
+
+La guía de Scrum. Retrieved 28 February 2023, from [https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)

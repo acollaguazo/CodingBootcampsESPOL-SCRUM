@@ -1,4 +1,4 @@
-# Detalle de las actividades de los Sprint
+# Detalle de las actividades de los Sprints
 
 Debemos tener en cuenta cuáles son el desglose de actividades por sprint necesarias para la creación de la página web de detección de incendios forestales. A continuación se detallan las actividades para cada sprint.
 

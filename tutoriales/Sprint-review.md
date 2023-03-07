@@ -1,15 +1,11 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Sprint review
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Sprint review
 
 La Sprint Review es el penúltimo evento del Sprint y tiene un límite de tiempo de máximo cuatro horas para un Sprint de un mes. Para Sprints más cortos, el evento suele ser de menor duración.
 
 <p align="center">
-<img src="https://media.licdn.com/dms/image/C4E12AQGediXVFRNrhQ/article-cover_image-shrink_600_2000/0/1598629895169?e=2147483647&v=beta&t=rhWDy_uCmd4U9Ej99ePc47LuYizzS3VOdC9wl_-Wh2E" width="40%"/>
+<img src="https://files.sitebuilder.webafrica.co.za/64/24/6424676f-cc0e-4654-b08f-b11cd3afa039.PNG" width="40%"/>
 </p>
 
 Propósito del Sprint review
@@ -19,7 +15,7 @@ Propósito del Sprint review
 El propósito de la Sprint Review es inspeccionar el resultado del Sprint y determinar futuras adaptaciones. El Scrum Team presenta los resultados de su trabajo a los interesados clave y se discute el progreso hacia el Objetivo del Producto.
 Durante el evento, el Scrum Team y los interesados revisan lo que se logró en el Sprint y lo que ha cambiado en su entorno. Con base en esta información, los asistentes colaboran sobre qué hacer a continuación. El Product Backlog también se puede ajustar para satisfacer nuevas oportunidades. La Sprint Review es una sesión de trabajo y el Scrum Team debe evitar limitarla a una presentación.
 
-Resumen del Daily Scrum
+Resumen del Sprint review
 ===========
 
 * * *
@@ -49,4 +45,4 @@ Referencias
 
 * * *
 
-* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves 
+* Los 5 eventos Scrum y las claves para llevarlos a la práctica. Retrieved 28 February 2023, from [https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves](https://www.cabsa.es/blog/5-eventos-scrum-y-sus-claves) 

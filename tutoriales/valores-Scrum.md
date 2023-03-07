@@ -1,10 +1,6 @@
----
-remote_theme: chrisrhymes/bulma-clean-theme
----
+## Valores Scrum
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
-
-# Valores Scrum
 
 El uso exitoso de Scrum depende de que las personas se vuelvan más competentes en vivir cinco valores:
 
@@ -42,3 +38,5 @@ Referencias
 ===========
 
 * * *
+
+La guía de Scrum. Retrieved 28 February 2023, from [https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)
