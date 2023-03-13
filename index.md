@@ -26,7 +26,7 @@
 
   ## Guías prácticas
 
-  * [Asana](tutoriales/Asana)
+  * Asana
     * [Creación de cuenta en Asana](tutoriales/asana/creacion-cuenta.md)
     * [Detalle de las actividades de los Sprints](tutoriales/asana/detalle-sprint.md)
     * [Product Backlog en Asana](tutoriales/asana/backlog-asana.md)
