@@ -22,7 +22,7 @@ Para el producto backlog, considerar el [detalle de los sprint](./detalle-sprint
 <img src="../imagenes/asana/asanaBacklog33.png" width="80%" alt="Banner proyecto Asana"/>
 </p>
 
-+ Dado que nuestro proyecto es una **A**plicación **W**eb **D**e **D**etección **D**e **I**ncendios **F**orestales, en base a las iniciales creamos un proyecto que representará el product Backlog y en el cuadro de texto se colocará el nombre del proyecto que es "Backlog-AWDDIF". Luego damos click en el botón de "Create project". 
++ Dado que nuestro proyecto es una **A**plicación **W**eb **D**e **D**etección **D**e **I**ncendios **F**orestales, en base a las iniciales creamos un proyecto que representará el product Backlog y en el cuadro de texto se colocará el nombre del proyecto que es **Backlog-AWDDIF**. Luego damos click en el botón de Create project. 
 
 <p align="center">
 <img src="../imagenes/asana/asanaBacklog4.png" width="80%" alt="Banner proyecto Asana"/>
