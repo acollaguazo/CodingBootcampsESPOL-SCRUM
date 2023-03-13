@@ -18,13 +18,13 @@ Asana es una herramienta para ayudarte a planificar, organizar y gestionar el tr
 <img src="../imagenes/asana/asana1.png" width="80%" alt="Banner asana"/>
 </p>
 
-+ En el cuadro de texto debes colocar el correo electrónico con el que deseas registrarte, luego das clic en el botón "Regístrate". 
++ En el cuadro de texto debes colocar el correo electrónico, con el cual desea registrarse, y colocar una contraseña. Si selecciona registrarse con una cuenta de google debe colocar su contraseña existente, luego dar clic en el botón Regístrate.
 
 <p align="center">
 <img src="../imagenes/asana/asana2.png" width="80%" alt="Banner asana"/>
 </p>
 
-+ Luego se mostrará la Bienvenida a ASANA con su información personal, dar clic en Continuar.
++ Luego se mostrará un mensaje de Bienvenida a ASANA, con su información personal, dar clic en Continuar.
 
 <p align="center">
 <img src="../imagenes/asana/asana2.1.png" width="80%" alt="Bienvenida Asana"/>
@@ -42,43 +42,44 @@ Asana es una herramienta para ayudarte a planificar, organizar y gestionar el tr
 <img src="../imagenes/asana/asana2.3.png" width="80%" alt="Tipo de trabajo Asana"/>
 </p>
 
-Escoger el principal objetivo de utilizar Asana, por ejemplo Gestión de proyectos y procesos, luego dar clic en Continuar.
++ Escoger el principal objetivo de utilizar Asana, por ejemplo Gestión de proyectos y procesos, luego dar clic en Continuar.
 
 <p align="center">
 <img src="../imagenes/asana/asana2.4.png" width="80%" alt="Objetivo Asana"/>
 </p>
 
-Lo siguiente es crear tu primer proyecto indicando un nombre del proyecto como **Backlog-AWDDIF**, luego dar clic en Continuar.
+
+Lo siguiente es **Crear tu primer proyecto** indicando un nombre del proyecto como **Backlog-AWDDIF**, luego dar clic en Continuar.
 
 <p align="center">
 <img src="../imagenes/asana/asana2.5.png" width="80%" alt="Proyecto"/>
 </p>
 
-Añadir las tareas al Product Backlog, luego dar clic en Continuar.
++ Añadir las tareas al Product Backlog, luego dar clic en Continuar.
 
 <p align="center">
 <img src="../imagenes/asana/asana2.6.png" width="80%" alt="Backlog"/>
 </p>
 
-Agrupar las tareas en Etapas como Tareas pendientes, En curso, y Trabajo terminado, luego dar clic en Continuar.
++ Agrupar las tareas en Etapas como Tareas pendientes, En curso, y Trabajo terminado, luego dar clic en Continuar.
 
 <p align="center">
 <img src="../imagenes/asana/asana2.7.png" width="80%" alt="Agrupacion"/>
 </p>
 
-Escoger el diseño del tablero de tareas, luego dar clic en Continuar.
++ Escoger el diseño del tablero de tareas, luego dar clic en Continuar.
 
 <p align="center">
 <img src="../imagenes/asana/asana2.8.png" width="80%" alt="Vista"/>
 </p>
 
-Agregar las cuentas de correo del Scrum Team, luego dar clic en Continuar.
++ Agregar las cuentas de correo del Scrum Team, luego dar clic en Continuar.
 
 <p align="center">
 <img src="../imagenes/asana/asana2.9.png" width="80%" alt="Scrum Team"/>
 </p>
 
-Finalmente, se muestra la página de inicio de tu cuenta en Asana.
++ Finalmente, se muestra la página de inicio de tu cuenta en Asana.
 
 <p align="center">
 <img src="../imagenes/asana/asana5.png" width="80%" alt="Inicio Asana"/>
