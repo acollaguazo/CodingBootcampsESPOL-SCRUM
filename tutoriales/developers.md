@@ -2,7 +2,7 @@
 
 [Regresar](/CodingBootcampsESPOL-SCRUM/)
 
-Los developers Las personas del Scrum Team que se comprometen a crear cualquier aspecto de un Increment utilizable en cada Sprint.
+Las personas del Scrum Team que se comprometen a crear cualquier aspecto de un Increment utilizable en cada Sprint.
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="40%"/>
